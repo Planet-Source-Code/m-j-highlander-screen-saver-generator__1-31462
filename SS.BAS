@@ -1,0 +1,2 @@
+Global gname As String
+
